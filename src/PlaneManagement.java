@@ -396,7 +396,7 @@ public class PlaneManagement {
                 }
             }
             System.out.println(" ");
-            System.out.println("Enter Q to quit to the main menu\r");
+            System.out.println("Enter Q to quit to the main menu for right\r");
             System.out.println("Enter any letter to show seating plan again");
             String userinput = scanner.next();
             userinput = userinput.toUpperCase();
